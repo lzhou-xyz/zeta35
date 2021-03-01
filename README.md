@@ -5,7 +5,7 @@ The paper could be downloaded from arxiv:  XXXX/xxx.
 
 
 
-main_zeta35.m is the code for the proof of main **Theorem 1.2** : At least two of ζ(5), ζ(7), ... , ζ(35) are irrational.
+**main_zeta35.m** is the code for the proof of main **Theorem 1.2** : At least two of ζ(5), ζ(7), ... , ζ(35) are irrational.
 
  For the purpose of consistency, the names of  variables are the same as those in the paper. It takes almost 1 minute to get the results as follows :
 
@@ -19,7 +19,7 @@ main_zeta35.m is the code for the proof of main **Theorem 1.2** : At least two o
 
 
 
-main_beta10.m is the code for the proof of  **Theorem 6.1**:  At least one of β(2), β(4), β(6), β(8), β(10) is irrational. 
+**main_beta10.m** is the code for the proof of  **Theorem 6.1**:  At least one of β(2), β(4), β(6), β(8), β(10) is irrational. 
 
 It takes a few seconds to get the results as follows:  
 
