@@ -21,8 +21,7 @@ main_zeta35.m is the code for the proof of main **Theorem 1.2** : At least two o
 
 main_beta10.m is the code for the proof of  **Theorem 6.1**:  At least one of β(2), β(4), β(6), β(8), β(10) is irrational. It takes a few seconds to get the results as follows:  
 
+![](http://latex.codecogs.com/svg.latex?\lim_{n\rightarrow\infty}\left(\widetilde{\Phi}_{n}^{-1} d_{\widetilde{M}}^{11}\right)^{1/n})=exp(-9.052339772597534e+02)
 
+![](http://latex.codecogs.com/svg.latex?\lim_{n\rightarrow\infty}\widetilde{r}_{n}^{1/n})= exp(9.034669134561257e+02)
 
-$ \lim _{n \rightarrow \infty}\left(\widetilde{\Phi}_{n}^{-1} d_{\widetilde{M}}^{11}\right)^{1 / n} $ = exp(-9.052339772597534e+02)
-
-$\lim _{n \rightarrow \infty} \widetilde{r}_{n}^{1 / n}$= exp(9.034669134561257e+02)
