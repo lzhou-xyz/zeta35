@@ -28,5 +28,5 @@ It takes a few seconds to get the results as follows:
 ![](https://latex.codecogs.com/svg.latex?\lim_{n\rightarrow\infty}\left(\widetilde{\Phi}_{n}^{-1}d_{\widetilde{M}}^{11}\right)^{1/n}) = exp(-9.052339772597534e+02)
 
 
-![](http://latex.codecogs.com/svg.latex?\lim_{n\rightarrow\infty}\widetilde{r}_{n}^{1/n}) = exp(9.034669134561257e+02).
+![](https://latex.codecogs.com/svg.latex?\lim_{n\rightarrow\infty}\widetilde{r}_{n}^{1/n}) = exp(9.034669134561257e+02).
 
