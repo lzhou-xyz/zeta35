@@ -147,7 +147,7 @@ c2=sum(max((m2-2*delta_min),m2-delta))+(2*m1+m2)*log(108)...
 disp('-------------------------------')
 disp(delta)
 disp([m1,m2])
-disp((c1-c2)/m2)
+disp(x0)
 disp(c1)
 disp(c2)
 disp('-------------------------------')

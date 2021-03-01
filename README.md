@@ -11,7 +11,7 @@ main_zeta35.m is the code for the proof of main **Theorem 1.2** : At least two o
 
 
 
- (c1-c2)/m2=0.002669335189699
+ x0 = 2.894938334463284
 
  c1 = 1.677993128952727e+04
 
