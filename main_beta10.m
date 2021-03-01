@@ -1,5 +1,5 @@
 clear all
-
+format long
 s=11;
 eta0=347;
 eta=[120;

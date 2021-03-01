@@ -1,5 +1,5 @@
 clear all
-
+format long
 m1=209;
 m2=243;
 s=35;
