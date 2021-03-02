@@ -1,7 +1,7 @@
 # Zeta35
-Codes for the paper  "AT LEAST TWO OF ζ(5), ζ(7), . . . , ζ(35) ARE IRRATIONAL".
+Codes for the paper  "AT LEAST TWO OF ζ(5), ζ(7), . . . , ζ(35) ARE IRRATIONAL"  Li Lai, Li Zhou.
 
-The paper could be downloaded from arxiv:  XXXX/xxx.
+The paper could be downloaded from arxiv:  https://arxiv.org/abs/2103.00904.
 
 
 
