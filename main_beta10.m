@@ -108,7 +108,7 @@ for i=1:length(x_mid)
     y_list(y_list>=1)=1;
     y_list=unique(y_list);
     y_list=0.5*(y_list(1:end-1)+y_list(2:end));
-    y_list=[0;y_list;1];
+%     y_list=[0;y_list;1];
     ans_x_mid(i)=min(sum(diag(h(:,1))*floor(h(:,2)*x+h(:,3)*y_list'),1));
 end
 
