@@ -16,13 +16,7 @@ The paper could be downloaded from arxiv:  https://arxiv.org/abs/2103.00904.
 
 Take the parameters as follows: 
 
-
-
-![](https://latex.codecogs.com/svg.latex?m_1=209,m_2=243,\left(\delta_{1},\delta_{2},\ldots,\delta_{36}\right)=\(4,4,4,4,4,5,6,7,8,9,10,12,14,16,18)
-
-
-
-![](https://latex.codecogs.com/svg.latex?m_1=209,m_2=243,(\delta_{1},\delta_{2},\ldots,\delta_{36})=(4,4,4,4,4,5,6,7,8,9,10,12,14,16,18,)
+![](https://latex.codecogs.com/svg.latex?m_1=209,m_2=243,\left(\delta_{1},\delta_{2},\ldots,\delta_{36}\right)=\(4,4,4,4,4,5,6,7,8,9,10,12,14,16,18,)
 
 ![](https://latex.codecogs.com/svg.latex?20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,56,60,64,68),)
 
@@ -30,11 +24,11 @@ Take the parameters as follows:
 
 It takes almost 1 minute to get the results as follows :
 
- x0 = 2.894938334463284
+ x0 = 2.894938334463284,
 
- c1 = 1.677993128952727e+04
+ c1 = 1.677993128952727e+04,
 
- c2 = 1.677928264107618e+04
+ c2 = 1.677928264107618e+04.
 
 
 
