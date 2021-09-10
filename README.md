@@ -42,53 +42,53 @@ For
 
 It takes a few seconds to get the results as follows:  
 
-​			![](https://latex.codecogs.com/svg.latex?\lim_{n\rightarrow\infty}\left(\widetilde{\Phi}_{n}^{-1}d_{\widetilde{M}}^{11}\right)^{1/n}=exp(-1.188368175067504e+02),) 
+​			![](https://latex.codecogs.com/svg.latex?\lim_{n\rightarrow\infty}\left(\widetilde{\Phi}_{n}^{-1}d_{\widetilde{M}}^{11}\right)^{1/n}=exp(-118.8368175068),) 
 
-​			![](https://latex.codecogs.com/svg.latex?\lim_{n\rightarrow\infty}\widetilde{r}_{n}^{1/n}=exp(1.186245661203575e+02).) 
+​			![](https://latex.codecogs.com/svg.latex?\lim_{n\rightarrow\infty}\widetilde{r}_{n}^{1/n}=exp(118.6245661204).) 
 
-
+We provide more details in **functionvalue.txt**，this text  records the explicit expression of the step function $\widetilde{\varphi}_0(x)$ on the interval [0,1). 
 
 **More parameters for Beta10:**
 
-The parameters we use for last version are
+The parameters we used for last version are
 
 ​			![](https://latex.codecogs.com/svg.latex?\left(\eta_{0},\eta_{1},\ldots,\eta_{11}\right)=(347,120,120,121,122,124,127,130,133,136,140,144),) 
 
  the results are:  
 
-​			 C1 = -9.052339772597534e+02   and   C2 = 9.034669134561257e+02.
+​			 C1 = -905.2339772598   and   C2 = 903.4669134561
 
-one of the referees provides two more simpler parameters:
+one of the referees provided two more simpler parameters:
 
 ​    			![](https://latex.codecogs.com/svg.latex?\left(\eta_{0},\eta_{1},\ldots,\eta_{11}\right)=(116,40,40,40,40,41,42,43,44,45,46,47),) 
 
-​			 C1 = -1.671117519101615e+02   and   C2 = 1.669923927370237e+02,
+​			 C1 = -167.1117519102   and   C2 = -167.1117519102,
 
 ​    			![](https://latex.codecogs.com/svg.latex?\left(\eta_{0},\eta_{1},\ldots,\eta_{11}\right)=(116,40,40,40,40,41,42,43,44,45,46,48),) 
 
-​			 C1 = -1.694835461763275e+02   and   C2 =  1.689817093310230e+02.
+​			 C1 = -169.4835461763   and   C2 =  168.9817093310.
 
 In this case, we try to find more and get the optimal one (which we think is)  and five more parameters as follows:
 
 ​    			![](https://latex.codecogs.com/svg.latex?\left(\eta_{0},\eta_{1},\ldots,\eta_{11}\right)=(111,38,38,38,39,40,41,42,43,44,45,46),) 
 
-​			 C1 = -1.655986604744788e+02   and   C2 = 1.643470880379113e+02,
+​			 C1 = -165.5986604745   and   C2 = 164.3470880379,
 
 ​    			![](https://latex.codecogs.com/svg.latex?\left(\eta_{0},\eta_{1},\ldots,\eta_{11}\right)=(118,40,40,40,41,42,43,44,45,46,47,48),) 
 
-​			 C1 =-1.739203291400283e+02  and   C2 =  1.728309128876520e+02,
+​			 C1 =-173.9203291400  and   C2 =  -173.9203291400,
 
 ​    			![](https://latex.codecogs.com/svg.latex?\left(\eta_{0},\eta_{1},\ldots,\eta_{11}\right)=(102,35,35,35,35,36,37,38,39,40,41,42),) 
 
-​			 C1 = -1.377413056967608e+02   and   C2 = 1.368284928437428e+02,
+​			 C1 = -137.7413056968   and   C2 = 136.8284928437,
 
 ​    			![](https://latex.codecogs.com/svg.latex?\left(\eta_{0},\eta_{1},\ldots,\eta_{11}\right)=(105,36,36,36,36,37,38,39,40,41,42,43),) 
 
-​			 C1 = -1.430851483015734e+02   and   C2 =  1.421598888402107e+02,
+​			 C1 = -143.0851483016   and   C2 =  142.1598888402,
 
 ​    			![](https://latex.codecogs.com/svg.latex?\left(\eta_{0},\eta_{1},\ldots,\eta_{11}\right)=(119,41,41,41,42,43,44,45,46,47,48,49),) 
 
-​			 C1 = -1.848701856342093e+02   and   C2 =  1.838905111834854e+02.
+​			 C1 = -184.8701856342   and   C2 =  183.8905111835.
 
 
 
