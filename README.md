@@ -62,7 +62,7 @@ one of the referees provided two more simpler parameters:
 
 ​    			![](https://latex.codecogs.com/svg.latex?\left(\eta_{0},\eta_{1},\ldots,\eta_{11}\right)=(116,40,40,40,40,41,42,43,44,45,46,47),) 
 
-​			 C1 = -167.1117519102   and   C2 = -167.1117519102,
+​			 C1 = -167.1117519102   and   C2 = 166.9923927370,
 
 ​    			![](https://latex.codecogs.com/svg.latex?\left(\eta_{0},\eta_{1},\ldots,\eta_{11}\right)=(116,40,40,40,40,41,42,43,44,45,46,48),) 
 
@@ -76,7 +76,7 @@ In this case, we try to find more and get the optimal one (which we think is)  a
 
 ​    			![](https://latex.codecogs.com/svg.latex?\left(\eta_{0},\eta_{1},\ldots,\eta_{11}\right)=(118,40,40,40,41,42,43,44,45,46,47,48),) 
 
-​			 C1 =-173.9203291400  and   C2 =  -173.9203291400,
+​			 C1 =-173.9203291400  and   C2 =  172.8309128877,
 
 ​    			![](https://latex.codecogs.com/svg.latex?\left(\eta_{0},\eta_{1},\ldots,\eta_{11}\right)=(102,35,35,35,35,36,37,38,39,40,41,42),) 
 
