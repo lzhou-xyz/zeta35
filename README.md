@@ -48,7 +48,7 @@ It takes a few seconds to get the results as follows:
 
 We provide more details in **functionvalue.txt**，this text  records the explicit expression of the step function![](https://latex.codecogs.com/svg.latex?\widetilde{\varphi}_0(x)) on the interval [0,1). 
 
-**More parameters for Beta10:**
+### More parameters for Beta10:
 
 The parameters we used for last version are
 
