@@ -46,19 +46,19 @@ It takes a few seconds to get the results as follows:
 
 ​			![](https://latex.codecogs.com/svg.latex?\lim_{n\rightarrow\infty}\widetilde{r}_{n}^{1/n}=exp(118.6245661204).) 
 
-We provide more details in **functionvalue.txt**，this text  records the explicit expression of the step function![](https://latex.codecogs.com/svg.latex?\widetilde{\varphi}_0(x)) on the interval [0,1). 
+We provide more details in **functionvalue.txt**，this text  records the explicit expression of the step function ![](https://latex.codecogs.com/svg.latex?\widetilde{\varphi}_0(x)) on the interval [0,1). 
 
 ### More parameters for Beta10:
 
-The parameters we used for last version are
+In an early version, the parameters we used are
 
 ​			![](https://latex.codecogs.com/svg.latex?\left(\eta_{0},\eta_{1},\ldots,\eta_{11}\right)=(347,120,120,121,122,124,127,130,133,136,140,144),) 
 
  the results are:  
 
-​			 C1 = -905.2339772598   and   C2 = 903.4669134561
+​			 C1 = -905.2339772598   and   C2 = 903.4669134561.
 
-one of the referees provided two more simpler parameters:
+One of the referees provided two more collections of parameters with smaller ![](https://latex.codecogs.com/svg.latex?\eta_{0}):
 
 ​    			![](https://latex.codecogs.com/svg.latex?\left(\eta_{0},\eta_{1},\ldots,\eta_{11}\right)=(116,40,40,40,40,41,42,43,44,45,46,47),) 
 
@@ -68,7 +68,8 @@ one of the referees provided two more simpler parameters:
 
 ​			 C1 = -169.4835461763   and   C2 =  168.9817093310.
 
-In this case, we try to find more and get the optimal one (which we think is)  and five more parameters as follows:
+ This motivated us to run a more extensive MATLAB program, we did not exhaust all parameters with ![](https://latex.codecogs.com/svg.latex?\eta_0 \leqslant 94), which is impractical. But we checked more than 10^5 collections of parameters such that the ratio
+![](https://latex.codecogs.com/svg.latex?\eta_0:\eta_1:\cdots:\eta_{11})is close to [94:32:32:32:32:33:34:35:36:37:38:39]. It is likely that ![](https://latex.codecogs.com/svg.latex?\eta_0=94) is the minimal possible choice. During the process, we found five more collections of parameters as follows:
 
 ​    			![](https://latex.codecogs.com/svg.latex?\left(\eta_{0},\eta_{1},\ldots,\eta_{11}\right)=(111,38,38,38,39,40,41,42,43,44,45,46),) 
 
