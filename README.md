@@ -68,7 +68,7 @@ One of the referees provided two more collections of parameters with smaller ![]
 
 ​			 C1 = -169.4835461763   and   C2 =  168.9817093310.
 
- This motivated us to run a more extensive MATLAB program, we did not exhaust all parameters with ![](https://latex.codecogs.com/svg.latex?\eta_0 \leqslant 94), which is impractical. But we checked more than 10^5 collections of parameters such that the ratio
+ This motivated us to run a more extensive MATLAB program, we did not exhaust all parameters with ![](https://latex.codecogs.com/svg.latex?\eta_0\leqslant94), which is impractical. But we checked more than 10^5 collections of parameters such that the ratio
 ![](https://latex.codecogs.com/svg.latex?\eta_0:\eta_1:\cdots:\eta_{11})is close to [94:32:32:32:32:33:34:35:36:37:38:39]. It is likely that ![](https://latex.codecogs.com/svg.latex?\eta_0=94) is the minimal possible choice. During the process, we found five more collections of parameters as follows:
 
 ​    			![](https://latex.codecogs.com/svg.latex?\left(\eta_{0},\eta_{1},\ldots,\eta_{11}\right)=(111,38,38,38,39,40,41,42,43,44,45,46),) 
